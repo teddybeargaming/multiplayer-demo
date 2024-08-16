@@ -1,7 +1,7 @@
  
 ## MakeCode TypeScript Multiplayer Demo
 
-A demo of the "multiplayer" extension, written in TypeScript.
+A demo of the "multiplayer" extension, written entirely in TypeScript.
 
 > Check it out here- [https://teddybeargaming.github.io/multiplayer-demo/](https://teddybeargaming.github.io/multiplayer-demo/)
 
